@@ -29,13 +29,12 @@ const Works = () => {
           </div>
 
           <div className="portfolioItem">
-            <h3>🔐 Register and Login System</h3>
+            <h3>✍️ EchoBlogs</h3>
             <p>
-              Secure user login system using PHP, MySQL, and JavaScript
-              validation.
+              A blogging platform enabling users to create, edit, and share posts with a clean and intuitive interface.
             </p>
             <a
-              href="https://github.com/nawaraaaj/Register-and-Login"
+              href="https://github.com/nawaraaaj/EchoBlogs"
               target="_blank"
               rel="noreferrer"
             >
